@@ -1,0 +1,7 @@
+{
+    "app_name": "Professional Customer Support",
+    "app_icon": "🎧",
+    "layout": "wide",
+    "default_response": "We apologize, but we couldn't process your request at this time.",
+    "escalation_message": "This query has been escalated to a human agent due to its negative sentiment."
+}

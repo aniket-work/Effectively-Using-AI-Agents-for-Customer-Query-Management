@@ -1,0 +1,14 @@
+streamlit
+groq
+langchain
+langchain-community
+langchain-core
+langchain-groq
+python-dotenv
+langgraph
+PyYAML
+fastapi
+uvicorn
+streamlit
+requests
+loguru
