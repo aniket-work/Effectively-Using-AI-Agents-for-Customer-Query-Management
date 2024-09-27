@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Full Article : [https://medium.com/@learn-simplified/how-i-built-supply-chain-optimization-using-ai-agents-84339654938c
+Full Article : [https://medium.com/@learn-simplified/how-to-use-ai-agents-for-customer-support-management-fe313a8238ce
 
 ## TL;DR:
 
