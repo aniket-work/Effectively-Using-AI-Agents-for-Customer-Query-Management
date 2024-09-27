@@ -1,33 +1,30 @@
-# Effectively-Using-AI-Agents-for-Customer-Query-Management
-Hands-On Guide: Effectively Using AI Agents for Customer Query Management
+# Hands-On Guide: Effectively Using AI Agents for Customer Query Management 
 
 ## Introduction
 
 Full Article : [https://medium.com/@learn-simplified/how-i-built-supply-chain-optimization-using-ai-agents-84339654938c
 
-“From Data to Decisions” emphasizes the practical transformation of raw data into actionable insights, which is at the core of the system we’ve built.
-
-Have you ever wondered how big companies keep their shelves stocked just right, not too much, not too little? Well, I did, and that curiosity led me down a fascinating path. I’m about to tell you how I built a supply chain optimization system using AI agents. It’s like teaching a computer to be the world’s best stock manager, but for an entire company’s inventory!
+TL;DR:
+This article showcases a practical AI-powered customer support system. We've built a workflow that automatically categorizes queries, analyzes sentiment, and provides appropriate responses. It's a real-world example of how AI can streamline support operations, improve efficiency, and enhance customer satisfaction. 
+Whether you're a business owner or tech enthusiast, you'll see how AI can be applied to solve everyday business challenges. The future of customer support is AI-driven, and this article gives you a glimpse into that future.
 
 
 ## Whats This Project About
 
-This article is your roadmap to creating a cutting-edge supply chain optimization system using AI agents. We’ll walk you through the process of building a system that leverages large language models (LLMs) to perform critical supply chain tasks. You’ll learn how to create AI agents for demand forecasting, inventory optimization, supplier risk analysis, and generating actionable recommendations.
-
-We’ll explore the code behind each of these agents, showing you how to structure your system for maximum flexibility and efficiency. Along the way, we’ll also cover important aspects like error handling, data parsing, and creating user-friendly interfaces to interact with your AI-powered system.
+This article explores the implementation of an AI-driven customer support system. We've created a streamlined workflow that takes a customer's query, analyzes its content and sentiment, and routes it to the appropriate handler - all in a matter of seconds. 
+The system categorizes queries, understands the customer's emotional state, and can even escalate issues when necessary. It's a practical demonstration of how AI can be integrated into real-world business processes to enhance efficiency and customer satisfaction.
 
 ## Why Work on It?
 
-In today’s fast-paced business environment, AI isn’t just an advantage — it’s becoming a necessity. Companies that harness AI for supply chain management are seeing dramatic improvements in efficiency, cost reduction, and customer satisfaction. This article shows you, through the lens of a fictional company, how to implement these AI solutions in your own business.
-
-You’ll gain insights into how AI can predict demand trends, optimize inventory levels to reduce costs, assess supplier risks to prevent disruptions, and generate smart recommendations for your supply chain strategy. By understanding and implementing these techniques, you’ll be positioning your company at the forefront of supply chain innovation, ready to tackle the challenges of modern business with AI as your ally.
+In today's fast-paced business environment, AI isn't just a buzzword - it's a game-changer. This article shows you, through a concrete example, how AI can be harnessed to revolutionize customer support. While our company is fictional, the techniques and technologies discussed are very real and applicable. You'll see how AI can categorize queries, analyze sentiment, and provide tailored responses, all while maintaining a smooth, intuitive user interface. 
+Whether you're a business owner looking to improve your support processes, a developer interested in AI applications, or just curious about the future of customer service, this article offers valuable insights into the practical implementation of AI in business operations.
 
 
 ## Architecture
 ![Design Diagram](design_docs/design.png)
 
 
-# Tutorial: How I Built Supply Chain Optimization Using AI Agents
+# Tutorial: Effectively Using AI Agents for Customer Query Management 
 
 ## Prerequisites
 - Python installed on your system.
@@ -56,7 +53,7 @@ You’ll gain insights into how AI can predict demand trends, optimize inventory
 
 **Install Project Dependencies:**
 
-Follow these steps to set up and run the 'Supply Chain Optimization Using AI Agents' project:
+Follow these steps to set up and run the 'Hands-On Guide: Effectively Using AI Agents for Customer Query Management' project:
 
 1. Navigate to your project directory:
    ```
@@ -71,7 +68,7 @@ Follow these steps to set up and run the 'Supply Chain Optimization Using AI Age
    This command installs all the necessary Python packages listed in the requirements.txt file.
 
 
-## Run - How I Built Supply Chain Optimization Using AI Agents
+## Run - Hands-On Guide: Effectively Using AI Agents for Customer Query Management
 
    ```bash 
      
