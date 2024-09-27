@@ -4,7 +4,8 @@
 
 Full Article : [https://medium.com/@learn-simplified/how-i-built-supply-chain-optimization-using-ai-agents-84339654938c
 
-TL;DR:
+## TL;DR:
+
 This article showcases a practical AI-powered customer support system. We've built a workflow that automatically categorizes queries, analyzes sentiment, and provides appropriate responses. It's a real-world example of how AI can streamline support operations, improve efficiency, and enhance customer satisfaction. 
 Whether you're a business owner or tech enthusiast, you'll see how AI can be applied to solve everyday business challenges. The future of customer support is AI-driven, and this article gives you a glimpse into that future.
 
