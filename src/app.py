@@ -53,7 +53,7 @@ def main():
             st.warning("Please enter a query before submitting.")
 
     st.sidebar.title("About")
-    st.sidebar.info(config['app_name'])
+    st.sidebar.info(config['app_about'])
 
 if __name__ == "__main__":
     main()
